@@ -22,9 +22,11 @@ ClassifyImg is a open-source() tool helping you with sorting images.
 5. Load images by using File>open directory or File>add to queue
 6. Click start on queue
 7. Start sortin'
+8. After you are done, choose Database > dump images... and choose a tag to dump and a location to copy the images into.
 
 # Customize
-You can customize this app by changing file {install-directory}/resources/main.css (Adding new .css files in TODO)
+1. You can customize this app by changing file {install-directory}/resources/main.css
+2. Plugins coming soon!
 
 # Soon
 1. Themes!
