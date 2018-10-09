@@ -1,6 +1,6 @@
-### ClassifyImg
+# ClassifyImg
 
-## What is ClassifyImg?
+### What is ClassifyImg?
 ClassifyImg is a open-source() tool helping you with sorting images.
 ## Features
 1. Load images from file.
@@ -14,7 +14,7 @@ ClassifyImg is a open-source() tool helping you with sorting images.
 
 # That's it!
 
-# How to use
+## How to use
 1. Open `ClassifyImg.jar` either by double-click or by typing `java -jar ClassifyImg.jar`
 2. Create option set(just click Enter)
 3. Create new set
