@@ -1,7 +1,7 @@
 # ClassifyImg
 
 ### What is ClassifyImg?
-ClassifyImg is a open-source() tool helping you with sorting images.
+ClassifyImg is a open-source(https://github.com/Mario6221/classifyimg-source) tool helping you with sorting images.
 ## Features
 1. Load images from file.
 2. Load all images from directory.
